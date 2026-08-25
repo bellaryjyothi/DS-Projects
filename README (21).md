@@ -1,4 +1,4 @@
-# Customer Segmentation & Retail Recommendation
+# Sales Forecasting & Pharma KPI Prediction
 
 Portfolio-safe implementation demonstrating an end-to-end data science and AI workflow.
 

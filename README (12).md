@@ -1,4 +1,4 @@
-# Customer Segmentation & Retail Recommendation
+# Computer Vision Quality Inspection
 
 Portfolio-safe implementation demonstrating an end-to-end data science and AI workflow.
 

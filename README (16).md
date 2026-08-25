@@ -1,4 +1,4 @@
-# Customer Segmentation & Retail Recommendation
+# GenAI Knowledge Assistant
 
 Portfolio-safe implementation demonstrating an end-to-end data science and AI workflow.
 

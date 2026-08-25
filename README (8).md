@@ -1,4 +1,4 @@
-# Customer Segmentation & Retail Recommendation
+# RAG-Based Enterprise AI Chatbot
 
 Portfolio-safe implementation demonstrating an end-to-end data science and AI workflow.
 

@@ -1,4 +1,4 @@
-# Customer Segmentation & Retail Recommendation
+# Fraud Detection & Banking Risk Analytics
 
 Portfolio-safe implementation demonstrating an end-to-end data science and AI workflow.
 
